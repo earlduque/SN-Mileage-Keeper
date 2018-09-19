@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_165574_mileage_k.mileage_keeper_user</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>mileage_keeper_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin-eduque</sys_created_by>
+        <sys_created_on>2018-09-19 21:50:40</sys_created_on>
+        <sys_id>662c38db4f6827000d952b8ca310c759</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_165574_mileage_k.mileage_keeper_user</sys_name>
+        <sys_package display_value="Mileage Keeper" source="x_165574_mileage_k">235bf0db4f6427000d952b8ca310c7eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mileage Keeper">235bf0db4f6427000d952b8ca310c7eb</sys_scope>
+        <sys_update_name>sys_user_role_662c38db4f6827000d952b8ca310c759</sys_update_name>
+        <sys_updated_by>admin-eduque</sys_updated_by>
+        <sys_updated_on>2018-09-19 21:50:40</sys_updated_on>
+    </sys_user_role>
+</record_update>

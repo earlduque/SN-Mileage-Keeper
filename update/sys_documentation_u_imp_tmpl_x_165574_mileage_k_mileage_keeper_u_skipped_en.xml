@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_skipped" label="Skipped" language="en" table="u_imp_tmpl_x_165574_mileage_k_mileage_keeper">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_skipped</element>
+            <help/>
+            <hint/>
+            <label>Skipped</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_165574_mileage_k_mileage_keeper</name>
+            <plural>Skipped</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin-eduque</sys_created_by>
+            <sys_created_on>2018-09-19 21:52:38</sys_created_on>
+            <sys_id>af9c341f4f6827000d952b8ca310c71b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Skipped</sys_name>
+            <sys_package display_value="Mileage Keeper" source="x_165574_mileage_k">235bf0db4f6427000d952b8ca310c7eb</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Mileage Keeper">235bf0db4f6427000d952b8ca310c7eb</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_165574_mileage_k_mileage_keeper_u_skipped_en</sys_update_name>
+            <sys_updated_by>admin-eduque</sys_updated_by>
+            <sys_updated_on>2018-09-19 21:52:38</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

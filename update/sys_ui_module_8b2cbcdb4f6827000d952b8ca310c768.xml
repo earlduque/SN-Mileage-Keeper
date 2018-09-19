@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Mileage Keeper">c72cbcdb4f6827000d952b8ca310c766</application>
+        <filter/>
+        <name>Mileage Keepers</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_165574_mileage_k.mileage_keeper_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin-eduque</sys_created_by>
+        <sys_created_on>2018-09-19 21:50:41</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8b2cbcdb4f6827000d952b8ca310c768</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Mileage Keepers</sys_name>
+        <sys_package display_value="Mileage Keeper" source="x_165574_mileage_k">235bf0db4f6427000d952b8ca310c7eb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Mileage Keeper">235bf0db4f6427000d952b8ca310c7eb</sys_scope>
+        <sys_update_name>sys_ui_module_8b2cbcdb4f6827000d952b8ca310c768</sys_update_name>
+        <sys_updated_by>admin-eduque</sys_updated_by>
+        <sys_updated_on>2018-09-19 21:50:41</sys_updated_on>
+        <table>x_165574_mileage_k_mileage_keeper</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
