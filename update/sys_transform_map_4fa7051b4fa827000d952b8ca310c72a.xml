@@ -16,16 +16,16 @@
         <source_table>u_imp_tmpl_x_165574_mileage_k_mileage_keeper</source_table>
         <sys_class_name>sys_transform_map</sys_class_name>
         <sys_created_by>admin-eduque</sys_created_by>
-        <sys_created_on>2018-09-19 21:53:00</sys_created_on>
-        <sys_id>09bc741f4f6827000d952b8ca310c76c</sys_id>
+        <sys_created_on>2018-09-19 22:40:56</sys_created_on>
+        <sys_id>4fa7051b4fa827000d952b8ca310c72a</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>u_imp_tmpl_x_165574_mileage_k_mileage_keeper</sys_name>
         <sys_package display_value="Mileage Keeper" source="x_165574_mileage_k">235bf0db4f6427000d952b8ca310c7eb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Mileage Keeper">235bf0db4f6427000d952b8ca310c7eb</sys_scope>
-        <sys_update_name>sys_transform_map_09bc741f4f6827000d952b8ca310c76c</sys_update_name>
+        <sys_update_name>sys_transform_map_4fa7051b4fa827000d952b8ca310c72a</sys_update_name>
         <sys_updated_by>admin-eduque</sys_updated_by>
-        <sys_updated_on>2018-09-19 21:53:00</sys_updated_on>
+        <sys_updated_on>2018-09-19 22:40:56</sys_updated_on>
         <target_table>x_165574_mileage_k_mileage_keeper</target_table>
     </sys_transform_map>
 </record_update>

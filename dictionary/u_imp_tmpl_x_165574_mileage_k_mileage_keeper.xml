@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element extends="sys_import_set_row" label="Imp Tmpl X 165574 Mileage K Mileage Keeper" max_length="40" name="u_imp_tmpl_x_165574_mileage_k_mileage_keeper" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Actual MPG" max_length="40" name="u_actual_mpg" type="string"/>
         <element attributes="import_attribute_name=Date" label="Date" max_length="40" name="u_date" type="glide_date"/>
         <element attributes="import_attribute_name=Fuel Amount,edge_encryption_enabled=true" label="Fuel Amount" max_length="20" name="u_fuel_amount" type="string"/>
         <element attributes="import_attribute_name=Note,edge_encryption_enabled=true" label="Note" max_length="40" name="u_note" type="string"/>
